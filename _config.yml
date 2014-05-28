@@ -8,7 +8,8 @@ permalink:        pretty
 # Setup
 title:            Vignesh Hirudayakanth
 tagline:          'Computer Engineering, Food, Web Development, Starcraft'
-url:              vigneshka.com
+url:              http://www.vigneshka.com
+shorturl:         vigneshka.com
 
 baseurl:          /
 author:
@@ -25,4 +26,7 @@ pages_list:
   Blog:           '/blog/'
   Feed:           '/atom.xml'
 
-gems:            - jekyll-redirect-from
+# Allow URL Redirects:
+# * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from
