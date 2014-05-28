@@ -21,6 +21,8 @@ github:
   repo:           https://github.com/vigneshka/vigneshka.github.io
 
 pages_list:
-  Contact: '/contact/'
-  Blog: '/blog/'
-  Feed: '/atom.xml'
+  Contact:        '/contact/'
+  Blog:           '/blog/'
+  Feed:           '/atom.xml'
+
+gems:            - jekyll-redirect-from
