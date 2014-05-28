@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Vignesh Hirudayakanth
+tagline:          'Computer Engineering, Food, Web Development, Starcraft'
+url:              http://vigneshka.github.io
+
+baseurl:          /
+author:
+  name:           'Vignesh Hirudayakanth'
+  url:            https://twitter.com/vigneshka
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/vigneshka/vigneshka.github.io
+
+pages_list:
+  Contact: '/contact/'
+  Blog: '/blog/'
+  Feed: '/atom.xml'
