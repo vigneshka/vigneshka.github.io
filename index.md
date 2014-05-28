@@ -8,4 +8,4 @@ Hello! I'm Vignesh Hirudayakanth, a senior in Computer Engineering at the Univer
 I'm interested in embedded systems, web development, algorithms, and digital signal processing. 
 
 My hobbies include playing strategy games, listening to unique music, and cooking. 
-I'll occassionally write about my experiences or philosophical musings in my [blog](/blog/).
+I'll occassionally write about experiences or philosophical musings in my [blog](/blog/).
